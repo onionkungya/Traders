@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:BCF5A9,100:A9F5E1&height=300&section=header&text=Traders로%205이소~&fontSize=75)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:BCF5A9,100:A9F5E1&height=300&section=header&text=Traders로%205이소~(BE)&fontSize=75)
 
 <p align="left"> 신세계 아이앤씨 KDT 교육과정 5기 Final 팀 프로젝트 </p>
 <p align="left"> 진행 기간 : 2024.07.10 ~ 2024.08.30 (8주간)</p>
