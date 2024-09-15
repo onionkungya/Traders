@@ -21,5 +21,16 @@
   <img src="https://img.shields.io/badge/chartJs-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white">
 </div>
 
-<h3> 🍀팀원 소개 </h3>
-![팀](https://github.com/user-attachments/assets/0ed1d237-9b10-4365-9de5-dcdd68eeaea3)
+<h3> 🍀역할 </h3>
+- DB 설계 </br>
+- QR코드를 활용한 입고처리</br>
+- 관리자 페이지</br>
+- 공지 알림 기능</br>
+
+<h4> 📌ERD(Entity-Relationship Diagram) </h4>
+
+<h4> 📌QR코드를 활용한 입고처리(입고 상세 내역) </h4>
+
+<h4> 📌관리자 페이지 </h4>
+
+<h4> 📌ERD(Entity-Relationship Diagram) </h4>
